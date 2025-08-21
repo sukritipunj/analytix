@@ -8,9 +8,14 @@ Tools Used: Google BigQuery, Python (Jupyter), SQL, Tableau
 
 ***Lost the old readme, currently restoring it***
 <img width="1920" height="1080" alt="Add a heading-4" src="https://github.com/user-attachments/assets/73e83082-67f7-4d79-a501-ff3e1ccb19a3" />
+
+The result of the above query was saved as "monthly_financial_kpis.csv" for visualisation in Tableau:
+<img width="757" height="437" alt="image" src="https://github.com/user-attachments/assets/26471a36-5c27-49bf-8d48-e592bd73359e" />
+
+## Dashboard
 <img width="1920" height="1080" alt="Add a heading-5" src="https://github.com/user-attachments/assets/d532d342-b56b-4f0a-98f7-6517b89fcccc" />
 
-
+## Other Metrics and Analyses
 <img width="1920" height="1080" alt="Add a heading" src="https://github.com/user-attachments/assets/388a3c66-2765-42b9-877c-aacb0bfda5e0" />
 <img width="1920" height="1080" alt="Add a heading-2" src="https://github.com/user-attachments/assets/934811c1-2e28-4014-968c-e5a23e570e15" />
 <img width="1920" height="1080" alt="Add a heading-3" src="https://github.com/user-attachments/assets/7f6c37cf-1dbd-4e34-a676-bf4b7ba6b160" />
