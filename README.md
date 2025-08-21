@@ -12,3 +12,10 @@ Tools Used: Google BigQuery, Python (Jupyter), SQL, Tableau
 <img width="1920" height="1080" alt="Add a heading-3" src="https://github.com/user-attachments/assets/7f6c37cf-1dbd-4e34-a676-bf4b7ba6b160" />
 <img width="1920" height="1080" alt="Add a heading-4" src="https://github.com/user-attachments/assets/abc1e31c-21a9-41f1-afe3-944577cd3c43" />
 <img width="1920" height="1080" alt="Add a heading-5" src="https://github.com/user-attachments/assets/0d48aaab-1ff3-48f7-be40-ca09d92302ad" />
+
+
+<img width="1920" height="1080" alt="Add a heading" src="https://github.com/user-attachments/assets/f48b1335-9d1b-4f32-a1d2-4e4fb4a6bd47" />
+
+Initial analysis yielded a 72.2% probability; this was refined to 92.9% after correcting the definition of 'trials' to only include months with an active target, leading to a more accurate model.
+
+<img width="1920" height="1080" alt="Add a heading-2" src="https://github.com/user-attachments/assets/17bd715f-bca4-42d3-9a32-d8148d12dfe0" />
