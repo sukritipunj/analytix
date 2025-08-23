@@ -1,4 +1,6 @@
 # Financial Performance & Forecasting Dashboard
+A predictive model for revenue forecasting and a Tableau dashboard to segment customers.
+
 
 Author: Sukriti Punj
 
